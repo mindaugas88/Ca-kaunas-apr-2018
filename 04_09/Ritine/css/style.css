@@ -1,0 +1,40 @@
+body{
+    background-color: bisque;
+    font: 12px  verdana;
+}
+
+.bottom{
+    display: flex;
+   
+}
+.article{
+    border-top: black solid 5px;
+    width: 260px;
+    background-color: #ffffff;
+    margin: 0 20px;
+    padding:20px;
+    -webkit-transition: 2s;
+    transition: 2s;
+
+}
+#top{
+    height: 300px;
+    width: auto;
+    background-color: brown;
+    margin:20px 0 0 0;
+}
+#title{
+    margin:0px;
+}
+.article h1, .article p{
+    margin:0;
+    -webkit-transition: 2s;
+    transition: 2s;
+    
+}
+.article:hover{
+    background-color: black;
+    -webkit-transition: 2s;
+    transition: 2s;
+
+}

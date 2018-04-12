@@ -1,0 +1,50 @@
+body{
+    background-color: bisque;
+    font: 15px  verdana;
+}
+
+.bottom{
+    display: flex;
+   
+}
+.article{
+    border-top: #ddd solid 5px;
+    width: 260px;
+    background-color: #ffffff;
+    margin: 0 20px;
+    padding:20px;
+    -webkit-transition: 2s;
+    transition: 0.5s;
+
+}
+.article h1, .article p{
+    margin:0;
+    -webkit-transition: 2s;
+    transition: 2s;
+}
+.article:hover{
+    border-color: black;
+    -webkit-transition: 2s;
+    transition: 0.5s;
+    margin-top: 3px;
+
+}
+.article h1{
+    font-family: 'BioRhyme', serif;
+    color:#2972fa
+}
+    
+.text-box{
+    width: auto;
+}
+.photo{
+    width: 37%;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.text-box a{
+    display:inline-block;
+    margin-top:15px;
+
+}

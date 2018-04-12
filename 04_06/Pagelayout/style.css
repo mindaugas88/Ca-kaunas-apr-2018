@@ -1,0 +1,52 @@
+#header{
+    background-color: #333333;
+    height: 100px
+}
+
+#main{
+    background-color: #efefef;
+    margin: 50px auto;
+    min-height: 100px;
+    width: 960px;
+    
+}
+
+#footer{
+    background-color: #333333;
+    height:100px;
+}
+
+#main h1, #header h1, #footer h1{
+    margin: 0px;
+}
+
+#vytis{
+    width: 100%;
+
+}
+
+body{
+    background-image: url(expansion.gif);
+    margin: 0px;
+    
+}
+#news{
+    Width:640px;
+    min-height:100px;
+    background-color: yellow;
+
+}
+#add{
+    background-color: blue;
+    width: 320px;
+    min-height:100px;
+
+}
+.article{
+    width: 320px;
+    background-color: violet;
+    border: 2px black solid;
+}
+.flex{
+    display: flex;
+}

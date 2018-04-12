@@ -1,0 +1,16 @@
+
+body{
+    background-image: url(../img/hip-square.png);
+    text-align: center;
+}
+
+.content{
+    
+    background-color: #fff;
+    min-height: 120px;
+    margin:0px
+}
+
+.tarpas{
+    margin: 10px;
+}

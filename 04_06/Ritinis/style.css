@@ -1,0 +1,28 @@
+.pirmas{
+    background-color: #fdb913;
+    height: 200px;
+    display: block;
+
+}
+.antras{
+    background-color: #006a44;
+    height: 200px;
+    display: block;
+}
+.trecias{
+    background-color: #c1272d;
+    height: 200px;
+}
+.pirmas, .antras, .trecias, h1{
+    margin: 0px;
+}    
+
+body{
+    margin:0px;
+}
+.vytis{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    
+}

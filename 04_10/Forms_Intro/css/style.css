@@ -1,0 +1,42 @@
+.container{
+    width: 760px;
+    margin-left:auto;
+    margin-right: auto;
+    padding: 20px;
+    background-color: #ddd
+}
+body{
+    background: url(../img/ignasi_pattern_s.png)
+   
+
+}
+h1{
+    font-family: 'Noto Serif', serif;
+}
+.text-field, .select-fild{
+    display: block;
+}
+.lbl{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+.btn{
+    margin-top: 15px;
+    padding:5px 15px;
+    color: turquoise;
+    /* -webkit-transition: all 0.2s;
+   -moz-transition: all 0.2s;
+   -o-transition: all 0.2s;
+   transition: all 0.2s; */
+   background-color: gray;
+   border: 1px solid;
+   -webkit-transition: 2s;
+}
+
+.btn:hover{
+    background-color: black;
+    -webkit-transition: 2s;
+}
+.select-fild{
+    padding: 5px 15px;
+}

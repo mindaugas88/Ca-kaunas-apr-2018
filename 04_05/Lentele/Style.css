@@ -1,0 +1,19 @@
+.table, .table td{
+    border: 1px solid #000000;
+    border-collapse: collapse;
+
+}
+.blue{
+    background-color: #6eb7e7d2;
+}
+.lightblue{
+    background-color: #6eb7e754;
+   
+}
+.table{
+    width: 500px;
+}
+.bold{ 
+    font-weight: bold;
+    text-align: center
+}

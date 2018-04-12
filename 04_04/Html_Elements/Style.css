@@ -1,0 +1,42 @@
+body{
+    background-image: url("Fonas.png")
+}
+
+/* p{ */
+    background-color: tomato
+}
+
+.greenText {
+    color: green;
+}
+
+.orangeText{
+    color:orange;
+}
+
+.firstParagraf{
+    font-size: 14px;
+    font-weight: bold;
+
+}
+
+.secondParagraf{
+    font-size: 31px;
+
+}
+/*Cia yra nereikalinga funkcia*/
+.Photo{
+    width: 200px;
+    /* height: 100px */
+}
+
+.boldtext{
+    font-weight: bold
+}
+
+.table, .table td{
+    border: 2px solid #1f07f3;
+    border-collapse: collapse;
+    background-color: #e0e6ee
+}
+
